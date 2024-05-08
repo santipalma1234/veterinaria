@@ -1,0 +1,22 @@
+*{
+    font-family: ´lobster´,cursive;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+.cont{
+    margin: auto;
+    margin-top: 50px;
+    border: 4px;
+    background: grey;
+    width: 50%
+}
+
+.cont {
+    float: right;
+    width: 50%;
+}
+
+.cont img{
+    float: left;
+}
